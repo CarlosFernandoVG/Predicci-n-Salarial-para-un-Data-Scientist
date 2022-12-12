@@ -12,3 +12,5 @@ Puedes encontrar nuestros anteriores trabajos (que son parte de este proyecto) e
 
 + [Segunda parte](https://github.com/CarlosFernandoVG/DataAnalyst-con-Python)
 + [Primera parte](https://github.com/CarlosFernandoVG/ProyectoPythonBEDU)
+
++ [Presentación de speech](https://docs.google.com/presentation/d/1qAAIpFdYLAvBNPmwjCZ7CWDAlxwWYJFlyYhf0GHHxOo/edit#slide=id.g1b277a8319f_3_0)
